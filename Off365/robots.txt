@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /stripe
+Disallow: /boot.php
+Disallow: /index.php
